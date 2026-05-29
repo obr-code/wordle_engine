@@ -25,11 +25,10 @@ WORDLE ENGINE - Olivier Brossard-Roy
       Green      = 'G
       
       Yellow     = 'Y'
+      
+      Example: "RRYGR"
 
-
-  Example: "RRYGR"
-
-  4. Repeat until end of the game.
+  5. Repeat until end of the game.
 
   
 That's it.
